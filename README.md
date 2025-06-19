@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project explores three months of transactional data from a supermarket chain with three branches. The goal is to uncover insights about sales performance, customer behavior, and product trends. The findings will support business decision-making through data visualization and insight presentation.
 
-📂 **Dataset**: [Download the dataset](./data/supermarket_sales.csv)
+📂 **Dataset**: [View/Download the dataset](./data/supermarket_sales.csv)
 
   
 📊 **Records**: 1000 rows × 17 columns  
@@ -70,19 +70,19 @@ Most columns are self-explanatory. Notably:
 
 ## 📈 Visualizations and Key Insights
 
-> *images/*
+> *[Visualizations](./images/)*
 
 ### Branch Sales  
 **Branch C** had the highest total sales (~110,569) - [View Branch Sales Chart](./images/branch_sales.png)
 
 ### Customer Type Spending  
-Members spent slightly more than non-members
+Members spent slightly more than non-members - [View Customer Type Sales Chart](./images/customer_type_avg.png)
 
 ### Product Line Revenue  
-**Food and Beverages** topped sales, followed by **Sports and Travel**
+**Food and Beverages** topped sales, followed by **Sports and Travel** - [View Sales by Product line](./images/product_line_sales.png)
 
 ### Customer Ratings  
-Wide spread from 4 to 10, with variability worth further exploration
+Wide spread from 4 to 10, with variability worth further exploration - [View Ratings Distribution Chart](./images/ratings_dist.png)
 
 ---
 
