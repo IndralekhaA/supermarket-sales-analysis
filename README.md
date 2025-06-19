@@ -3,7 +3,9 @@
 ## 📌 Project Overview
 This project explores three months of transactional data from a supermarket chain with three branches. The goal is to uncover insights about sales performance, customer behavior, and product trends. The findings will support business decision-making through data visualization and insight presentation.
 
-📂 **Dataset**: data/supermarket_sales .csv  
+📂 **Dataset**: [Download the dataset](./data/supermarket_sales.csv)
+
+  
 📊 **Records**: 1000 rows × 17 columns  
 🔧 **Tools**: Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook or Google Colab
 
@@ -71,7 +73,7 @@ Most columns are self-explanatory. Notably:
 > *images/*
 
 ### Branch Sales  
-**Branch C** had the highest total sales (~110,569)
+**Branch C** had the highest total sales (~110,569) - [View Branch Sales Chart](./images/branch_sales.png)
 
 ### Customer Type Spending  
 Members spent slightly more than non-members
